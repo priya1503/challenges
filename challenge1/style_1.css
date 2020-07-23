@@ -11,7 +11,6 @@
         margin:auto;
      }
      body{
-         background-color: black;
          display: table-cell;
          vertical-align:middle;
      }
@@ -37,7 +36,7 @@
         padding-top: 23px;
         padding-right:35px ;
         height:310px;
-        width:260px;
+        width:268px;
      }
      #drawers{
         width: 330px;
